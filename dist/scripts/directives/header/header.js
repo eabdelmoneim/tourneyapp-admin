@@ -1,0 +1,1 @@
+"use strict";angular.module("tourneyAdminApp").directive("header",function(){return{templateUrl:"scripts/directives/header/header.html",restrict:"E",replace:!0}});

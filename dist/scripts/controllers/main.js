@@ -1,0 +1,1 @@
+"use strict";angular.module("tourneyAdminApp").controller("MainCtrl",function($scope,$position){});
